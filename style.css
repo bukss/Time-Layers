@@ -24,12 +24,10 @@ body {
 }
 
 .bigblur {
-  text-shadow: 5px 5px 5px #ffffff;
   font-weight:bold;
 }
 
 .blur {
-  text-shadow: 5px 5px 5px #ffffff;
   font-weight:bold;
   font-size:20pt;
 }
